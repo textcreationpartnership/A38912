@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact coranto from most parts of Christendom from July 3, to this present, viz, from Cullen, Leipsich, Newheruse, Aldenburg, Bohemia, Vienna, Prague, Collen, Hamburgh.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38912</idno>
+            <idno type="STC">Wing E3637</idno>
+            <idno type="STC">ESTC R24030</idno>
+            <idno type="EEBO-CITATION">07940765</idno>
+            <idno type="OCLC">ocm 07940765</idno>
+            <idno type="VID">40599</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40599)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1206:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact coranto from most parts of Christendom from July 3, to this present, viz, from Cullen, Leipsich, Newheruse, Aldenburg, Bohemia, Vienna, Prague, Collen, Hamburgh.</title>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.N. and I.F. for E. Hubands and I. Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: July 20, 1642.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40599:1" rendition="simple:additions"/>
+            <p>JULY 20. 1642.</p>
+            <p>AN EXACT CORANTO From MOST PARTS OF Chriſtendom: From July 3. to this preſent: <hi>Viz.</hi> from
+<list>
+                  <item>CULLEN:</item>
+                  <item>LEIPSICH:</item>
+                  <item>NEWHERUSE:</item>
+                  <item>ALDENBURG:</item>
+                  <item>BOHEMIA:</item>
+                  <item>VIENNA:</item>
+                  <item>PRAGUE:</item>
+                  <item>COLLEN:</item>
+                  <item>HAMBURGH.</item>
+               </list>
+            </p>
+            <p>LONDON: Printed by <hi>L.N.</hi> and <hi>I.F.</hi> for <hi>E. Husbands</hi> and <hi>I. Franck.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:40599:2"/>
+            <pb n="3" facs="tcp:40599:2" rendition="simple:additions"/>
+            <head>AN EXACT CORANTO From moſt parts of Chriſtendom; <hi>From Iuly</hi> 3. <hi>to this preſent.</hi>
+            </head>
+            <div type="part">
+               <opener>
+                  <dateline>Cullen, <date>3. Iuly,</date>
+                  </dateline>
+               </opener>
+               <head>Forrein Account.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Imperiall army lyes yet about Zous &amp; Zutchebbergh on the Rhyne, they do not break up yet; we muſt fear the ruine of the country. <hi>Hat<g ref="char:EOLhyphen"/>field</hi> having ſecured Angewth and Angermind, went abroad with 3000 horſe to deſcry the Weymariſh, both Cavelries met beneath Neys, and skirmiſhed, the Weymariſh reti<g ref="char:EOLhyphen"/>red, the Imperialiſts purſued after, but being warned by one of Zous of an ambuſh of 100 fire-locks to cut off their retreat, they gallopped to their quarters again; the Spaniſh forces lye on the other ſide of the Maas, and are ſhortly to return to Brabant, they deſire of the Electour to renounce Neutrality to the Hol<g ref="char:EOLhyphen"/>landers; which being a thing of bad conſequence, the Electour will not condiſcend unto; <hi>Hatfield</hi> deſireth of our Magiſtrate, to take in his ſick Souldiers, which is denyed.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Leipſich, <date>20. 30 Iune.</date>
+                  </dateline>
+               </opener>
+               <p>The Swedes play maſter every where, they have taken Brunne, Yagerdorf, Oſden and Ratibore, they
+<pb n="4" facs="tcp:40599:3"/>have commanded ſome thouſands towards Brieg, and 4000 horſmen towards the draw-bridge at Vienna: At Zitlin in the Marquiſate of Brandenburgh was ſeen at Noon-day a black cloud, in it two fighting ſwords, and our of it rained much blood, and fiery ſculls fell out of it to the ground, which burned cleer, and ſo conſumed.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Newheruſe, <date>19. 29 Iune.</date>
+                  </dateline>
+               </opener>
+               <p>The Swedes have ranſom'd Olmits at 150000 Rixdollers, and afterwards by reaſon that the Jeſuits and Friers had perſwaded the Townſmen to kill ſome of the Swedes, they plundred it, and took the chief Townſmen priſoners, and made their yong men to ſerve; thev got in it 630 weight of gunpowder, 9000 weight of match, ſome 4000 weight of lead, and 60 piece of Ordnance, which they carried away, and guarded the City with 1000 horſe, and 1000 Muſ<g ref="char:EOLhyphen"/>quetiers; they took alſo Sternberg, Devetſhew, Krem<g ref="char:EOLhyphen"/>ſier, and other places which they pillaged.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Aldenburg, <date>20. 30 Iune.</date>
+                  </dateline>
+               </opener>
+               <p>The five new leavied Regiments for the Emperor coming from Poland, are ruinated by the Swedes; the Electour of Saxony deſireth Neutrality with the Swedes; four Imperiall Regiments lye in and about Newburg, whereof ſome under Colonell <hi>Goldaker</hi> have driven away from Erletten and Manfeld the cat<g ref="char:EOLhyphen"/>tle and ſheep, the Swediſh gave fire from a hill neer to the Caſtle upon them, and kill'd 100. and woun<g ref="char:EOLhyphen"/>ded
+<pb n="5" facs="tcp:40599:3" rendition="simple:additions"/>many and ſew of them eſcaped, Bega, Borna, and other places even to Leipſich muſt contribute to the Swedes at Erfurd, into which Citie they bring daily rich booties.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Bohemia, <date>21. Iune, 1. Iuly.</date>
+                  </dateline>
+               </opener>
+               <p>At Prague was concluded at a Dyet that every Ci<g ref="char:EOLhyphen"/>tizen muſt contribute 16 Florens, 1 quarter of corn, 12 quarter of oats, and 10 men muſt maintain one man in war. <hi>Torſtenſon</hi> hath found in Olmits 4000 weight of lead, 1800 weight of gunpowder, 50 pie<g ref="char:EOLhyphen"/>ces of Ordnance, 150 new wagons for war, 5000 ſuits made for the Imperialiſts, 3000 new Muſquets, 3000 fair horſes, great ſtore of corn and wine; the Jeſuits and Townſmen muſt work in the Sconces, the City Millith was ſummoned by a Trumpet, who was kill'd at the entry of the Town, which place the Swedes took by an aſſault, and burnt it.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Vienna, <date>22 Iune, 1 Iuly.</date>
+                  </dateline>
+               </opener>
+               <p>After the taking of Olmits and Neys, the Swedes marcht to Glatz a chief paſſage, the Imperiall Com<g ref="char:EOLhyphen"/>mander of it was abroad in his Coach, and taken pri<g ref="char:EOLhyphen"/>ſoner; <hi>Piccolomini</hi> lyeth at Labach, not far from Znaim in Moravia, where he recollected 8000 horſe, they expect <hi>Leopolds</hi> ſuccour from Bohemia: In Au<g ref="char:EOLhyphen"/>ſtria is ſummoned the fifteenth man, the Duke of Ba<g ref="char:EOLhyphen"/>varia offreth to the Emperor 10 Millions to continue the war: Sir <hi>Thomas Roe</hi> is ſhortly to return home.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:40599:4"/>
+               <opener>
+                  <dateline>Prague, <date>25. Iune, 5. Iuly.</date>
+                  </dateline>
+               </opener>
+               <p>The Swedes put Glatz hard ro it, <hi>Pappenheim</hi> is come hither with 20 horſmen, certifies, that the Swedes have taken <hi>Conigs-Gratz,</hi> without the loſſe of any men, which terrifie us becauſe they aim at this City, we have here 7000 Souldiers, with the Trained Bands: Vienna is levying 4000 horſmen, Auſtria 5000 foot, and Hungary 5000 Huſtars.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Collen, <date>26. Iune, 6. Iuly.</date>
+                  </dateline>
+               </opener>
+               <p>The Elector of Cullen is made Execcutor in the Mother Queens laſt will, one is ſent to <hi>France</hi> to fetch order about Her body, a Holland Shipper was driven by a ſtorme with his Ship upon the Imperiall ſhid-bridge, whereby the half bridge is ruinated, the ſhipper is in hold: The French and Wey mariſh for<g ref="char:EOLhyphen"/>ces have received 100000. Crowns to buy in Hol<g ref="char:EOLhyphen"/>land proviſion for their Army; The Spaniſh Army is going back to Artois, at Dunkerke many Soul<g ref="char:EOLhyphen"/>eirs and Sea-men runn away becauſe of Admirall <hi>Tromp</hi> lyes ſo ſtrong before it that the Spaniſh Fleet dares not venter out to Sea.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From <hi>Hamburgh.</hi>
+                  </dateline>
+               </opener>
+               <p>Hungary is in Rebellion againſt the Emperor, be<g ref="char:EOLhyphen"/>cauſe the Emperor in his Treatie of peace with the Turks, hath given 70. Villages to the Turks, beſides Hungary is to contribute to the Turk 80000 <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c<g ref="char:EOLhyphen"/>kets,
+<pb n="7" facs="tcp:40599:4" rendition="simple:additions"/>which they refuſe to do, ſaying they choſe the Emperor to protect them as a free People, and not to ſell them as ſlaves: 2. The Emperor hath taken from them 18. Proteſtant Churches, and put Jeſuits into them. 3, The Emperor had often promiſed them to call a dyet to redreſſe their greivances which he never performed. 4. That ſince the German wars he layd heavy taxations upon them, whereas that war did not concerne them, they writt alſo that the Emperour i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fled to Vienna, to Tyroll becauſe the Peaſants in up<g ref="char:EOLhyphen"/>per Auſtria are in Rebellion, and the Prince of Tran<g ref="char:EOLhyphen"/>ſilvania armeth himſelfe very ſtrongly againſt the Emperor, it cannot be expected what ſpoile and boo<g ref="char:EOLhyphen"/>ties the Swedes make in Moravia and Auſtria.</p>
+               <p>From France, Gener: <hi>Houdencourt</hi> hath ſent 2 mil<g ref="char:EOLhyphen"/>lions of gold to Baccellona, which he hath taken from the Spaniſh in Valentia and Aragon. At Cadiſh in Spaine are arrived 40. Ships that came from Den<g ref="char:EOLhyphen"/>mark to joyne with the Spaniſh Ships, which will be a Fleet of 88. Ships: In Holland are arrived 9 ſhips from Braſill with 4728. Cheſts of Sugar beſides other commodities.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
